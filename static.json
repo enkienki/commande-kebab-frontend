@@ -1,0 +1,10 @@
+{
+  "root": "build/",
+  "routes": {
+    "/**": "index.html"
+  }
+<<<<<<< HEAD
+}
+=======
+}
+>>>>>>> aef49ffcc6d19bf373d639925d9ca1574b4e5ca2
